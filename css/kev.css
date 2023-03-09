@@ -1,0 +1,40 @@
+body{
+    background-color: lightgrey;
+    font-family: "Calibri";
+    margin: 0%;
+}
+
+header{
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+}
+
+.container{
+    width: 80%;
+    margin: 0% auto;
+}
+
+section{
+    float: left;
+    width: 70%;
+    margin-bottom: 100px;
+    background-color: lightpink;
+}
+
+aside{
+    float: right;
+    width: 25%;
+    background-color: lightsalmon;
+}
+
+footer{
+    clear: both;
+    background-color: lightseagreen;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 50px 0;
+}
